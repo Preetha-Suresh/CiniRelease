@@ -15,9 +15,11 @@ Dart — Programming Language
 TMDB API — Movie data
 Hive — Local database (for watchlist)
 Dio — API calls
+
+
 <br>
-<img width="400" height="700" alt="Screenshot 2026-04-07 193518" src="https://github.com/user-attachments/assets/72237e8c-91df-48e9-8de1-e455fe0bcf31" />
-<img width="400" height="700" alt="Screenshot 2026-04-07 193550" src="https://github.com/user-attachments/assets/34de6a42-0c8c-438d-988f-b36ff9fe2c19" />
-<img width="400" height="700" alt="Screenshot 2026-04-07 193627" src="https://github.com/user-attachments/assets/cae8f07c-ca33-4c69-9959-c1f855eae3a5" />
+<img width="300" height="600" alt="Screenshot 2026-04-07 193518" src="https://github.com/user-attachments/assets/72237e8c-91df-48e9-8de1-e455fe0bcf31" />
+<img width="300" height="600" alt="Screenshot 2026-04-07 193550" src="https://github.com/user-attachments/assets/34de6a42-0c8c-438d-988f-b36ff9fe2c19" />
+<img width="300" height="600" alt="Screenshot 2026-04-07 193627" src="https://github.com/user-attachments/assets/cae8f07c-ca33-4c69-9959-c1f855eae3a5" />
 
 
