@@ -10,11 +10,11 @@ A Flutter mobile application that helps users discover the latest movie releases
 - Watchlist — Save movies locally using Hive (offline support)
 -  Remove from Watchlist — Easily manage saved movies
 # Tech Stack
-Flutter — UI Framework
-Dart — Programming Language
-TMDB API — Movie data
-Hive — Local database (for watchlist)
-Dio — API calls
+- Flutter — UI Framework
+- Dart — Programming Language
+- TMDB API — Movie data
+- Hive — Local database (for watchlist)
+- Dio — API calls
 
 
 <br>
